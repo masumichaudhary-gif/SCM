@@ -1,1 +1,1 @@
-# SCM
+mkdir SecureVote && cd SecureVote
